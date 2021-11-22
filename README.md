@@ -7,6 +7,8 @@ Deployment:
 
 Screenshots:
 
+[Initial Code]
+![image](https://user-images.githubusercontent.com/92896336/142796358-b35b7e8b-c1f5-4cba-816a-3227e705e611.png)
 
 
 ## Description:
